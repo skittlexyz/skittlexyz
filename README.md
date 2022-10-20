@@ -15,8 +15,9 @@
 
 - 💻 Technologies that i master and use in projects:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" widht="80" height="80"/>
 
+#
 
 <a href="https://github.com/seu-usuário-aqui">
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skittlexyz&layout=compact&langs_count=7&theme=dracula"/>
