@@ -17,11 +17,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" widht="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" widht="80" height="80"/>
 
-#
-
-![Snake animation](https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake.svg)
-
 # Projects that i run !
 
 - 🍃 bioTech: A company that takes care of environmental issues focusing on inclusion and sustainability.
 - ⭐ sb.design: A brand focused on providing services in the area of graphic design.
+
+> More about em can be found in my repositories !
+
+#
+
+![Snake animation](https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake.svg)
