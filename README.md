@@ -3,7 +3,7 @@
  
 - 🔭 I work at the Nióbio 7566 Robotics Team !
 - 🌱 I have a certificate on the Computer Science 50 Course at Harvard !
-- 🤔 I intend to study System Development !
+- 🤔 I study System Development !
 - 💬 I have aptitude for Full Stack !
 - 📫 Contact me by email: moisescorreagomes@gmail.com
 
