@@ -4,7 +4,7 @@
 - 🌿 I have a certificate on the Computer Science 50 Course at Harvard!
 - 🌳 I study System Development!
 - ☘️ I have aptitude for Full Stack!
-- 🌴 Contact me by email: moisescorreagomes@gmail.com
+- 🌲 Contact me by email: moisescorreagomes@gmail.com
 
 #
 
