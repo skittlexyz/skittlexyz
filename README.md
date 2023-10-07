@@ -7,4 +7,4 @@
 🐍 - i have aptitude for full stack!<br>
 🍏 - contact me by email: moisescorreagomes@gmail.com
 
-<img alt="github-snake" src="github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake-dark.svg)
