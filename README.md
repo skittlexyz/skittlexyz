@@ -9,4 +9,3 @@
 
 #
 
-![Snake animation](https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake.svg)
