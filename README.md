@@ -1,4 +1,4 @@
-<img align="center" src="./banner.png">
+<!-- <img align="center" src="./banner.png"> -->
 <h1 align="center">what's up? my name is moisés corrêa!</h1>
 
 🌿 - i work at the nióbio 7566 robotics team!<br>
