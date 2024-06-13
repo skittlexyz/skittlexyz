@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/skittlexyz/skittlexyz/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
