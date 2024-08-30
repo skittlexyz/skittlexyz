@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="250px" src="./banner.jpg">
+</div>
 <h2 align="center">Hello! 👋 My name is Moisés Corrêa and i am from Brazil!</h2>
 
 ###
