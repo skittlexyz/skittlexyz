@@ -17,7 +17,7 @@ Me chamo Moisés e sou um programador ingressando agora no mercado de desenvolvi
   🔰 Tecnologias que uso!
 </h2>
 
-<img src="https://skillicons.dev/icons?i=html,js,css,react,svelte,vite,tailwind,ts,nodejs,npm,git,notion,obsidian,arduino,raspberrypi,linux,windows,java,md,mysql,ps,ae,ai,vscode,py,go,cpp,bash,powershell,replit" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,svelte,vite,tailwind,ts,nodejs,npm,git,notion,obsidian,arduino,raspberrypi,linux,windows,java,md,mysql,ps,ae,ai,vscode,py,bash,powershell,replit,php,laravel,vercel,angular,jquery,bootstrap,pnpm,postman" />
 
 <h2>
   🔰 Projeto recente!
