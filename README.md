@@ -23,14 +23,14 @@ My name is Moisés (or Moses for the english speakers) and i'm a programmer ente
   🔰 Recent projects!
 </h2>
 
+- `templates` is a powerful tool for developers looking to save time. It provides a list of pre-made projects and lets you choose one to download, all from your CLI.
+
+<a href="https://github.com/skittlexyz/templates" target="_blank"><img src="https://img.shields.io/static/v1?label=skittlexyz&amp;message=templates&amp;color=fcdc4f&amp;logo=github"/></a>
+
 - `wpre.io` is a simple weather forecast web app written in React. Its operation is simple yet efficient; feel free to check it out!
 
 <a href="https://github.com/skittlexyz/wpre.io" target="_blank"><img src="https://img.shields.io/static/v1?label=skittlexyz&amp;message=wpre.io&amp;color=4f72fc&amp;logo=github"/></a>
 <a href="https://wpreio-skittlexyzs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Check%20my%20project!-wpre.io-%234f72fc"></a>
-
-- `templates` is a powerful tool for developers looking to save time. It provides a list of pre-made projects and lets you choose one to download, all from your CLI.
-
-<a href="https://github.com/skittlexyz/wpre.io" target="_blank"><img src="https://img.shields.io/static/v1?label=skittlexyz&amp;message=templates&amp;color=fcdc4f&amp;logo=github"/></a>
 
 <img src="https://github.com/skittlexyz/skittlexyz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
