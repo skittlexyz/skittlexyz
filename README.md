@@ -11,7 +11,7 @@
   🔰 Hello World!
 </h2>
 
-My name is Moisés (or Moses for the english speakers) and i'm a programmer entering the development world now, my strong point is webdevelopment and embedded systems. I like to work and team and to create minimalist but functional designs.
+My name is Moisés (or Moses for the english speakers) and i'm a programmer entering the development world now, my strong point is web development and embedded systems. I like to work in team and to create minimalist but functional designs.
 
 <h2>
   🔰 Technologies i use!
