@@ -28,7 +28,7 @@ Greetings from Brazil! My name is Moisés (or skittlexyz) and i'm a software eng
 <a href="https://github.com/skittlexyz/templates" target="_blank"><img src="https://img.shields.io/static/v1?label=skittlexyz&amp;message=templates&amp;color=fcdc4f&amp;logo=github"/></a>
 
 - `wpre.io` is a simple weather forecast web app written in React. Its operation is simple yet efficient; feel free to check it out!
-
+ 
 <a href="https://github.com/skittlexyz/wpre.io" target="_blank"><img src="https://img.shields.io/static/v1?label=skittlexyz&amp;message=wpre.io&amp;color=4f72fc&amp;logo=github"/></a>
 <a href="https://wpreio-skittlexyzs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Check%20my%20project!-wpre.io-%234f72fc"></a>
 
